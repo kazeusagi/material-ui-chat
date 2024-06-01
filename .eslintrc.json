@@ -1,0 +1,32 @@
+{
+  "extends": "next/core-web-vitals"
+  // "rules": {
+  //   "react-hooks/exhaustive-deps": "off"
+  // }
+
+  // "plugins": ["import"],
+  // "rules": {
+  //   // "unused-imports/no-unused-imports": "warn",
+  //   "import/order": [
+  //     "warn",
+  //     {
+  //       "groups": [
+  //         "builtin", // 組み込みモジュール
+  //         "external", // 外部ライブラリ
+  //         "internal", // 自作モジュール
+  //         ["parent", "sibling"],
+  //         "object",
+  //         "type",
+  //         "index"
+  //       ],
+  //       "newlines-between": "always", // グループ毎に改行を入れる
+  //       "pathGroupsExcludedImportTypes": [],
+
+  //       "pathGroups": [
+  //         { "pattern": "react", "group": "builtin", "position": "before" },
+  //         { "pattern": "next", "group": "builtin", "position": "before" }
+  //       ]
+  //     }
+  //   ]
+  // }
+}
